@@ -1,3 +1,3 @@
+#!/usr/bin/env bash
 
-
-echo `hostname -i`
+echo "hello world"
