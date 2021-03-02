@@ -1,3 +1,5 @@
 
 
-echo `hostname -i`
+echo 'hello world'
+
+echo hostname
